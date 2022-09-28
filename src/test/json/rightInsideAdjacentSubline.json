@@ -1,0 +1,19 @@
+{
+  "validationType":"adjacent",
+  "rectangleOne":{
+    "top_left":{
+      "x":1,
+      "y":4
+    },
+    "width":4,
+    "height":4
+  },
+  "rectangleTwo":{
+    "top_left":{
+      "x":2,
+      "y":3
+    },
+    "width":3,
+    "height":2
+  }
+}

@@ -1,0 +1,11 @@
+Developer: Reinaldo Hernandez
+
+I didn't comment on the test case because there is a hurricane in Florida. I probably I will be without electricity in the coming days.
+So I reader submit the exercise and explain in the meeting any questions related to the test cases than miss the deadline for not being able to submit it.
+There is a folder src/test/json that has request samples that can be used to test from Postman.
+Please update the validation type for each case "validationType":"adjacent", and post to http://localhost:8080/validate/
+The json response has a tag "responseObject": with the rectangles analyze message.
+
+Documentation.
+http://localhost:8080/swagger-ui.html
+http://localhost:8080/v2/api-docs

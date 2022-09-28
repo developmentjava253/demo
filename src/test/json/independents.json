@@ -1,0 +1,19 @@
+{
+  "validationType":"containment",
+  "rectangleOne":{
+    "top_left":{
+      "x":1,
+      "y":3
+    },
+    "width":3,
+    "height":2
+  },
+  "rectangleTwo":{
+    "top_left":{
+      "x":6,
+      "y":3
+    },
+    "width":3,
+    "height":3
+  }
+}
